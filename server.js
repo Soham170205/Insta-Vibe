@@ -19,9 +19,9 @@ const url = "mongodb://0.0.0.0:27017";
 
 
 cloudinary.config({
-    cloud_name: "dhxsijm44",
-    api_key: "655423442716155",
-    api_secret: "FrXngLqqc4L0aUtj-j_dQ-l_ToI"
+    cloud_name: "",
+    api_key: "",
+    api_secret: ""
   });
 
 let storage = new CloudinaryStorage({cloudinary});
